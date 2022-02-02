@@ -1,25 +1,25 @@
 [
   {
     "full_name": "google/gts",
-    "stargazers_count": 3753,
+    "stargazers_count": 3755,
     "open_issues_count": 41,
     "forks_count": 155
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 77470,
-    "open_issues_count": 778,
-    "forks_count": 32287
+    "stargazers_count": 77522,
+    "open_issues_count": 783,
+    "forks_count": 32317
   },
   {
     "full_name": "fontsource/fontsource",
-    "stargazers_count": 1986,
+    "stargazers_count": 2009,
     "open_issues_count": 30,
     "forks_count": 62
   },
   {
     "full_name": "ahmadajmi/itcss",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "sindresorhus/got",
-    "stargazers_count": 10862,
-    "open_issues_count": 44,
-    "forks_count": 715
+    "stargazers_count": 10878,
+    "open_issues_count": 47,
+    "forks_count": 716
   },
   {
     "full_name": "oskros/MF_run_counter",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 4,
     "forks_count": 10
   },
@@ -45,43 +45,43 @@
     "full_name": "pascaldevink/spaceship-zsh-theme",
     "stargazers_count": 89,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 10455,
-    "open_issues_count": 496,
-    "forks_count": 985
+    "stargazers_count": 10513,
+    "open_issues_count": 492,
+    "forks_count": 990
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 36855,
-    "open_issues_count": 836,
-    "forks_count": 2765
+    "stargazers_count": 36988,
+    "open_issues_count": 849,
+    "forks_count": 2769
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 7010,
-    "open_issues_count": 32,
-    "forks_count": 203
+    "stargazers_count": 7039,
+    "open_issues_count": 33,
+    "forks_count": 204
   },
   {
     "full_name": "molefrog/wouter",
-    "stargazers_count": 3819,
-    "open_issues_count": 13,
-    "forks_count": 96
+    "stargazers_count": 3822,
+    "open_issues_count": 15,
+    "forks_count": 97
   },
   {
     "full_name": "websockets/ws",
-    "stargazers_count": 17635,
-    "open_issues_count": 5,
-    "forks_count": 2122
+    "stargazers_count": 17648,
+    "open_issues_count": 6,
+    "forks_count": 2123
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 13460,
-    "open_issues_count": 31,
-    "forks_count": 375
+    "stargazers_count": 13568,
+    "open_issues_count": 33,
+    "forks_count": 379
   },
   {
     "full_name": "codrops/MagneticButtons",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "Vincit/objection.js",
-    "stargazers_count": 6499,
-    "open_issues_count": 55,
+    "stargazers_count": 6506,
+    "open_issues_count": 59,
     "forks_count": 576
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 25370,
-    "open_issues_count": 34,
-    "forks_count": 899
+    "stargazers_count": 25386,
+    "open_issues_count": 33,
+    "forks_count": 901
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 21927,
-    "open_issues_count": 72,
-    "forks_count": 1623
+    "stargazers_count": 21964,
+    "open_issues_count": 73,
+    "forks_count": 1629
   },
   {
     "full_name": "firasdib/fastify",
@@ -115,57 +115,57 @@
   },
   {
     "full_name": "firasdib/Regex101",
-    "stargazers_count": 2412,
+    "stargazers_count": 2416,
     "open_issues_count": 60,
-    "forks_count": 207
+    "forks_count": 209
   },
   {
     "full_name": "GoogleChromeLabs/quicklink",
-    "stargazers_count": 9261,
+    "stargazers_count": 9264,
     "open_issues_count": 46,
-    "forks_count": 358
+    "forks_count": 357
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 17057,
-    "open_issues_count": 58,
+    "stargazers_count": 17067,
+    "open_issues_count": 51,
     "forks_count": 527
   },
   {
     "full_name": "fail2ban/fail2ban",
-    "stargazers_count": 6829,
+    "stargazers_count": 6838,
     "open_issues_count": 177,
     "forks_count": 1004
   },
   {
     "full_name": "dsznajder/vscode-es7-javascript-react-snippets",
-    "stargazers_count": 578,
-    "open_issues_count": 6,
-    "forks_count": 219
+    "stargazers_count": 586,
+    "open_issues_count": 8,
+    "forks_count": 223
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 17937,
-    "open_issues_count": 41,
-    "forks_count": 938
+    "stargazers_count": 17978,
+    "open_issues_count": 38,
+    "forks_count": 940
   },
   {
     "full_name": "ForrestKnight/open-source-cs",
-    "stargazers_count": 15226,
+    "stargazers_count": 15251,
     "open_issues_count": 10,
-    "forks_count": 2683
+    "forks_count": 2686
   },
   {
     "full_name": "geerlingguy/ansible-role-git",
     "stargazers_count": 169,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 128
   },
   {
     "full_name": "teambit/bit",
-    "stargazers_count": 14645,
-    "open_issues_count": 227,
-    "forks_count": 809
+    "stargazers_count": 14650,
+    "open_issues_count": 228,
+    "forks_count": 810
   },
   {
     "full_name": "codingmamalabs/raspi-ansible",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 19009,
-    "open_issues_count": 430,
-    "forks_count": 1654
+    "stargazers_count": 19064,
+    "open_issues_count": 428,
+    "forks_count": 1659
   }
 ]
